@@ -1,0 +1,81 @@
+worldName,rightAnswer,wrongAnswer1,wrongAnswer2,wrongAnswer3,dir,img
+Inside Corbit ,Ethernet Cable,Robotic Snake,Fiber Optic Line,Ice Sculpture,Ethernet Cable,Ethernet Cable.jpg
+Inside Corbit ,Computer Chip,Copper Forest,Dog Fur Brush,Old Switchboard,Chip,Chip.jpg
+Inside Corbit ,Server Farm ,Air Purifier,Space Dock,Laser,Server farm,Server farm.jpg
+Inside Corbit ,Data Cable,Cybernetic Hair,Power Station,Fire Hose,Wires,Wires.jpg
+Inside Corbit ,Wire Rope,Chainmail Armor,Silver Snake,Itchy Underwear,Metallic Rope,Metallic Rope.jpg
+Inside Corbit ,Speaker Grill,Hornet Nest,Black Diamond,Fly Eyeball,Speaker,Speaker.jpg
+Inside Corbit ,Watch Gears,Metal Saw,Tractor Engine,Old Calculator,Gold Gear,Gold Gear.jpg
+Inside Corbit ,Motherboard,Solar Panel,Hard Drive,Code Breaker,CPU,CPU.jpg
+Ocean ,Otter,River Weeds,Baby Porcupine,Whale Whiskers,Otter,Otter.jpg
+Ocean ,Turtle ,Cave Paintings,Aquatic Snail,Ocean Crystal,Turtle,Turtle.jpg
+Ocean ,Whale ,Mussel Shell,Underwater Vent,Sea Mushrooms,Whale,Whale.jpg
+Ocean ,Anemone ,Sea Raspberries,Balloonfish,Seaweed,Anemone,Anemone.jpg
+Ocean ,Kelp,Leafy Sea Dragon,Eel Eggs,Brain Weed,Kelp,Kelp.jpg
+Ocean ,Starfish ,Flower Pollen,Himalayan Salt ,Warty Blue Toad,Starfish,Starfish.jpg
+Ocean ,Coral ,Millipede Nest,Human Brain,Sea Worms,Coral,Coral.jpg
+Ocean ,Angelfish ,Glowing Tide,Poisonous Frog,Peacock,Angelfish,Angelfish.jpg
+Caves,Stalactites,Arctic Jellies,Ice Core,Shattered Glass,Stalactites,Stalactites.jpg
+Caves,Tiger Eye Stone,Brazilian Wood,Old Cheese,Green Slime Mold,Tiger Eye Stone,Tiger Eye Stone.jpg
+Caves,Volcanic Rock ,Brownie,Cocoa Bean,Rust,Volcanic Rock,Volcanic Rock.jpg
+Caves,Strata ,Ancient Book,Bacon Strip,Dry River Bed,Strata,Strata.jpg
+Caves,Sandstone Canyon,Candy Corn,Mushroom Stalk,Flamingo,Antelope Canyon,Antelope Canyon.jpg
+Caves,Marble,Ant Farm,French Cheese,Sand,Marble,Marble.jpg
+Caves,Cave Painting ,Lava Trail,Bat Droppings,Rotten Carrot,Cave Painting,Cave Painting.jpg
+Caves,Geode ,Distant Galaxy,Icicles,Rock Candy,Geode,Geode.jpg
+Atmosphere ,Salt Flat,Bread Mold,Frost,Sheepskin Rug,Salt Flat,Salt Flat.jpg
+Atmosphere ,Ice Crystal ,Diamond Shards,Recycled Glass,Clingfilm,Ice Crystal,Ice Crystal.jpg
+Atmosphere ,Desert Sand,Bread,Siberian Tiger,Burned Field,Desert Sand,Desert Sand.jpg
+Atmosphere ,Duck,Mackerel Bass,Seal Pile,Platypus,Duck,Duck.jpg
+Atmosphere ,Plane,Antique Decoder,Sewing Machine,Armored Truck,Plane,Plane.jpg
+Atmosphere ,Owl,Fungal Infection,Cow Hide,Kudu Horn,Owl,Owl.jpg
+Atmosphere ,Glacier ,Snow Cone,Ice Cube,Aquamarine Gem,Glacier,Glacier.jpg
+Atmosphere ,Light Prism ,Gummy Bears,Tropical Parrot,Sunset,Rainbow,Rainbow.jpg
+Near Space,Solar Heater,Test Tubes,Coin Washer ,Vacuum Cleaner ,Solar Water,Solar Water.jpg
+Near Space,Meteorite,Sponge Fossil,Moon Rock,Martian Canyon,Meteorite,Meteorite.jpg
+Near Space,Radio Tower,Launch Tower,Space Station,Martian Rover,Radio Tower,Radio Tower.jpg
+Near Space,Pyramid,Martian Crater,Mummy Wrapping,Desert Tortoise,Pyramid,Pyramid.jpg
+Near Space,Radio Telescope,Space Dock,Fusion Reactor,Core Drill,Radio Telescope,Radio Telescope.jpg
+Near Space,Rocket,Roman Calculator,Watch,Fusion Reactor,Rocket,Rocket.jpg
+Near Space,Control Panel,Submarine ,Camera Lens,Supercomputer,Control Panel,Control Panel.jpg
+Near Space,Astronaut ,Rover Tracks,Grey Coral,Ladderworm Print,Astronaut,Astronaut.jpg
+Far Space ,Mars Rover,Space Telescope,Webcam,Laser Cannon,Mars Rover,Mars Rover.jpg
+Far Space ,Space Shuttle ,Blast Pad,Solar Oven,Lunar Burrower,Space Shuttle,Space Shuttle.jpg
+Far Space ,Asteroid ,Surface of Mars,Bowl of Chili,Frog Skin,Asteroid,Asteroid.jpg
+Far Space ,Mars,Grand Canyon,Venus,Ocean Floor,Mars,Mars.jpg
+Far Space ,Satellite,Air Shaft,Rhinestone Belt,Radio Telescope,Satellite,Satellite.jpg
+Far Space ,Saturn ,Mine Explosion,Pepper Grinder,Asteroid Strike,Saturn,Saturn.jpg
+Far Space ,Moon ,Golf Ball,Cave Ceiling,Volcanic Dust,Moon,Moon.jpg
+Far Space ,Jupiter ,Dust Cloud,Milky Latte,Swirled Opal,Jupiter,Jupiter.jpg
+Rainforest ,Palm Leaf ,Celery Stalk,Chameleon Eyelid,Cracked Glass,Palm Leaf,Palm Leaf.jpg
+Rainforest ,Torch Flower,Gum Tree,Mudcatcher Bird,Gecko,Torch Ginger,Torch Ginger.jpg
+Rainforest ,Coconut ,Hay,Matted Hair,Cat Hairball,Coconut,Coconut.jpg
+Rainforest ,Moss ,A Sloth'S Back,Wall Ferns,Tree Farm,Moss,Moss.jpg
+Rainforest ,Butterfly ,Blueberry Skin,Blue Viper Tail,Indigo Dye,Butterfly,Butterfly.jpg
+Rainforest ,Gorilla ,Black Bear Butt,Black Grass,Charcoal Lump,Gorilla,Gorilla.jpg
+Rainforest ,Macaw ,Coral,Fiber Optics,Rare Porcupine,Macaw,Macaw.jpg
+Rainforest ,Bird of Paradise ,Dragon Fruit,Yolk Jellyfish,Tufted Newt,Bird of Paradise,Bird of Paradise.jpg
+Savannah ,Zebra ,Hieroglyphics,White Tiger,Snow Badger,Zebra,Zebra.jpg
+Savannah ,Rhino ,Walnut Skin,Elephant Eye,Hippo Butt,Rhino,Rhino.jpg
+Savannah ,Lion ,Black-Eyed Owl,Snow Hare,Spiny Coral,Lion,Lion.jpg
+Savannah ,Baobab,Rock Carvings,Fossilized Poop,Rock Crab Shell,Baobab Tree,Baobab Tree.jpg
+Savannah ,Vulture,Moth,War Bonnet,Turkey Tail,Vulture,Vulture.jpg
+Savannah ,Giraffe ,Snake Eater,Lion Claw,Deer,Giraffe,Giraffe.jpg
+Savannah ,Elephant ,Granite,Dried Mud,Warthog,Elephant,Elephant.jpg
+Savannah ,Cheetah ,Hyena,Savannah Cat,Dalmation Grass,Cheetah,Cheetah.jpg
+Human Body ,Fingerprint,Bouncy Ball,Mushroom Cap,Blobfish,Fingerprint,Fingerprint.jpg
+Human Body ,Nose,Giant Tube Worm,Elephant Trunk,Earthworm,Nose,Nose.jpg
+Human Body ,Hair ,Tape Worms,Nose,Lungs,Hair,Hair.jpg
+Human Body ,Ear,Mold Colony,Small Intestine,Nostril,Ear,Ear.jpg
+Human Body ,Skin,Tongue,Stinkhorn Cap,Naked Mole-Rat,Skin,Skin.jpg
+Human Body ,Lip,Eyelid,Stomach Lining,Whiskered Worm,Lip,Lip.jpg
+Human Body ,Hand,Wrinkled Walrus,Armpit,Toe,Hand,Hand.jpg
+Human Body ,Eye ,Colon,Large Intestine,Sandworm Lair,Eye,Eye.jpg
+Facility,Transmission,Garbage Disposal,Metal Shredder,Coffee Grinder,Transmission,Transmission.jpg
+Facility,Motor,Combed Hair,Paint Brush,Yarn Ball,Motor,Motor.jpg
+Facility,Cardboard,Dried Bean Pods,Ant Nest,Knit Shirt,Cardboard,Cardboard.jpg
+Facility,Tire,Circuit Board,Chocolate Mold,Processor Stamp,Tire,Tire.jpg
+Facility,Lightbulb,Gas Burner,Chandelier,Molten Glass,Light Bulb,Light Bulb.jpg
+Facility,Engine,Food Processor,Racing Wheel,Speaker,Engine,Engine.jpg
+Facility,Wind Turbine,Turboprop Plane,Cake Mixer,Ship'S Wheel,Wind Turbine,Wind Turbine.jpg
+Facility,Solar Panel ,Smart Tile ,Nanofiber Cloth,Camera Sensor,Solar Panel,Solar Panel.jpg
